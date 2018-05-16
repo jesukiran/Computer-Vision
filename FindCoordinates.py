@@ -9,7 +9,7 @@ def addPoint(p1, p2):
     return (p1[0] + p2[0], p1[1] + p2[1])
 #Enter image as an argument from command prompt
 def usage():
-    print "python sort_channel_coordinates.py <channel_image_path>"
+    print "python FindCoordinates.py <channel_image_path>"
 
 def main():
 
