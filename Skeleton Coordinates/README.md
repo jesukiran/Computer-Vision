@@ -1,6 +1,4 @@
-# Computer-Vision
-
-Description for Script: FindCoordinates.py
+# FindCoordinates.py
 
 This script is used to find the coordinates of a binary skeletonized channel/blood vessel/etc using Moore neighbourhood search method.
 
