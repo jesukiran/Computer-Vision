@@ -3,19 +3,7 @@
 from __future__ import division
 from __future__ import print_function
 
-
-__author__ = 'Jesu Kiran Spurgen'
-__email__ = ['jesukirann@gmail.com', 'jesukiran@protonmail.com']
-__status__ = 'Prototype'
-__date__ = '2018/11/26'
 __description__ = 'Semi-Automatic tool to annotate cells based on their frame-to-frame pixel-shift.'
-
-print('Author: ' + __author__)
-print('Email-IDs: ' + ', '.join(__email__))
-print('Status: ' + __status__)
-print('Date of creation: ' + __date__)
-print('Description of project: ' + __description__)
-print('=' * 60)
 
 
 import os
