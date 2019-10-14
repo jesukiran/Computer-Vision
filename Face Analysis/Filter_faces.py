@@ -86,6 +86,7 @@ print("***DONE! ")
 #df = pd.DataFrame({"X-value" : np.asarray(X), "Y-value" : np.asarray(Y)})
 #df.to_csv(result_path + "dist.csv", index = False)
 
+# Plot the Histogram
 
 trace1 = go.Histogram(
     x=X,
